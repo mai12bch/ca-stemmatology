@@ -3,6 +3,9 @@
 This repository contains computer-assisted stemmatology programs, scripts 
 
 1. Collecting data 
-2. Preprocessing: cleaning, filtering  
+   -OCR 
+2. Preprocessing 
+  - Tokenization 
+  - Collating (Text Alignment)
 3. Clustering
 4. GUI
